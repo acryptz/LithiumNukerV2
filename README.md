@@ -9,4 +9,4 @@ This is a discord nuker tool where u can nuke whichever discord u want to nuke. 
 
 3 open lithuim_NukerV2
 
-4 start LithiumNukerV2 and enjoy
+4 start LithiumNukerV2.exe and enjoy
